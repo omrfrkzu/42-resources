@@ -8,6 +8,8 @@
 	<img src="https://img.shields.io/badge/links-+1150-1150?color=%2312bab9&style=flat-square" />
 	<img src="https://img.shields.io/github/last-commit/jotavare/42-resources?color=%2312bab9&style=flat-square" />
 	<a href='https://www.linkedin.com/in/omrfrkzu/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	<a href='https://42kocaeli.com.tr/' target="_blank"><img alt='42' src='https://img.shields.io/badge/42-Kocaeli-Kocaeli'/></a>
+  </a>
 </p>
 
 <p align="center">
